@@ -1,0 +1,6 @@
+/var/www/html/portabletoiletrentalarizona/portabletoiletrentalarizona.py:48: SyntaxWarning: invalid escape sequence '\s'
+  processing_handler= '''<div id="output"></div>
+Traceback (most recent call last):
+  File "/var/www/html/portabletoiletrentalarizona/portabletoiletrentalarizona.py", line 1196, in <module>
+    excluded_state_pages()()
+TypeError: 'NoneType' object is not callable
